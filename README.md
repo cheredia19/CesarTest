@@ -12,6 +12,15 @@ But here is the thing. Despite India having 36% of the 50 most subscribed YouTub
 
 24 of the 50 YouTube channels with the most subscribers target English speakers (exactly 42%). Those channels gather 1,84 billion subscribers, while Indian-speaking channels collect 1,51 billion subscribers.
 
+<PlotlyBarChart
+  data={{
+    csv: 'Date,AAPL.Open,AAPL.High,AAPL.Low,AAPL.Close,AAPL.Volume,AAPL.Adjusted,dn,mavg,up,direction\n2015-02-17,127.489998,128.880005,126.919998,127.830002,63152400,122.905254,106.7410523,117.9276669,129.1142814,Increasing\n2015-02-18,127.629997,128.779999,127.449997,128.720001,44891700,123.760965,107.842423,118.9403335,130.0382439,Increasing\n2015-02-19,128.479996,129.029999,128.330002,128.449997,37362400,123.501363,108.8942449,119.8891668,130.8840887,Decreasing\n2015-02-20,128.619995,129.5,128.050003,129.5,48948400,124.510914,109.7854494,120.7635001,131.7415509,Increasing'
+  }}
+  title="Apple Stock Prices"
+  xAxis="Date"
+  yAxis="AAPL.Open"
+/>
+
 The Korean language lies in third place with a distant 6%. A curious thing is that **75% of South Korean channels have English as their primary language, not Korean**.
 
 Cyprus, Sweden, and Romania, all of them European countries, **are also English-speaking channels**.
