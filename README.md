@@ -28,6 +28,6 @@ Among the main topics, **80% of the 50 most subscribed YouTube channels are labe
 
 Mr. Beast, Blackpink, Justin Bieber, Eminem, and Taylor Swift count as non-branded YouTube profiles.
 
-{
-  "url": "data.csv"
+data : {
+  url : "data.csv"
 }
