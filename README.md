@@ -12,13 +12,6 @@ But here is the thing. Despite India having 36% of the 50 most subscribed YouTub
 
 24 of the 50 YouTube channels with the most subscribers target English speakers (exactly 42%). Those channels gather 1,84 billion subscribers, while Indian-speaking channels collect 1,51 billion subscribers.
 
-<PlotlyBarChart
-  data="data.csv"
-  title="50 most subscribed YouTube channels"
-  xAxis="Channel"
-  yAxis="Subscribers"
-/>
-
 The Korean language lies in third place with a distant 6%. A curious thing is that **75% of South Korean channels have English as their primary language, not Korean**.
 
 Cyprus, Sweden, and Romania, all of them European countries, **are also English-speaking channels**.
@@ -35,4 +28,6 @@ Among the main topics, **80% of the 50 most subscribed YouTube channels are labe
 
 Mr. Beast, Blackpink, Justin Bieber, Eminem, and Taylor Swift count as non-branded YouTube profiles.
 
-
+<FlatUiTable
+  data="data.csv"
+ />
