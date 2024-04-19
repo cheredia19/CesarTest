@@ -20,7 +20,7 @@ Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic
 
 <PlotlyBarChart
   data={{
-    csv:"50_language.csv"
+    csv:"50_languages.csv"
   }}
   xAxis="Languages"
   yAxis="Subscribers (millions)"
