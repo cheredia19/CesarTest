@@ -25,16 +25,15 @@ Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic
         lang: 'Arabic'
         mill_subs: 52.7
       },
-      
       {
-        lang: 'Bhojpuri'
-        mill_subs: 61.5
+        lang: 'Arabic'
+        mill_subs: 52.7
       }
+     ] 
   }}
-  xAxis="Languages"
-  yAxis="Subscribers (millions)"
-  title="Most spoken languages into the 50 YouTube channels with most subscribers"
-/>
+  xAxis="lang"
+  yAxis="mill_subs"
+  />
 
 There are only two Spanish-speaking channels in the 50 with the most subscribers: the Argentine children's channel El Reino Infantil (position 26th, 6, 63.6M), and the Chilean JuegaGerman, formerly known as HolaSoyGerman (position 49th, 49.7M). The only Portuguese-spoken channel comes from Brazil: Canal Kondzilla, with 67 million subscribers.
 
