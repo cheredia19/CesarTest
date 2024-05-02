@@ -6,7 +6,7 @@ As the renowned channel says in its profile description, “T-Series is associat
 
 The second largest-subscriber channel on YouTube is American entrepreneur and Internet personality MrBeast. with a community of more than 250 million followers. 
 
-It is no coincidence that these profiles come from India and the United States. These two countries gather at least 60% of the 50 YouTube channels with the most subscribers as of April 14, 2024.
+It is no coincidence that these profiles come from India and the United States. These two countries gather at least 60% of the 50 YouTube channels with the most subscribers through April 14, 2024.
 
 But here is the thing. Despite India having 36% of the 50 most subscribed YouTube channels, **the most spoken language within the Big 50 on YouTube is English**.
 
@@ -18,23 +18,6 @@ Cyprus, Sweden, and Romania, all of them European countries, **are also English-
 
 Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic, Bhojpuri, and Portuguese have 2% each.
 
-<PlotlyBarChart
-  data={{
-    values: [
-      {
-        lang: 'Arabic'
-        mill_subs: 52.7
-      },
-      {
-        lang: 'Arabic'
-        mill_subs: 52.7
-      }
-     ] 
-  }}
-  xAxis="lang"
-  yAxis="mill_subs"
-  />
-
 There are only two Spanish-speaking channels in the 50 with the most subscribers: the Argentine children's channel El Reino Infantil (position 26th, 6, 63.6M), and the Chilean JuegaGerman, formerly known as HolaSoyGerman (position 49th, 49.7M). The only Portuguese-spoken channel comes from Brazil: Canal Kondzilla, with 67 million subscribers.
 
 Russian-speaking Entertainment channels A4 and Get Movies have a media of 51,65 million subscribers. Both occupy the 42nd and 47th positions, respectively.
@@ -44,3 +27,8 @@ Among the main topics, **80% of the 50 most subscribed YouTube channels are labe
 64% of the 50 YouTube channels with the most subscribers, two-thirds (64%) are brands, like T-Series, World Wrestling Entertainment (WWE) -the most followed Sports channel worldwide- and Sony Music India.
 
 Mr. Beast, Blackpink, Justin Bieber, Eminem, and Taylor Swift count as non-branded YouTube profiles.
+
+### 50 channels with the most subscribers on YouTube
+*Through April 14, 2024*
+
+<FlatUiTable url = 'data.csv' />
