@@ -31,4 +31,4 @@ Mr. Beast, Blackpink, Justin Bieber, Eminem, and Taylor Swift count as non-brand
 ### 50 channels with the most subscribers on YouTube
 *Through April 14, 2024*
 
-<FlatUiTable url = 'data.csv' />
+<Table url="data.csv" />
