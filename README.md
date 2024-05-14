@@ -27,3 +27,9 @@ Among the main topics, **80% of the 50 most subscribed YouTube channels are labe
 64% of the 50 YouTube channels with the most subscribers, two-thirds (64%) are brands, like T-Series, World Wrestling Entertainment (WWE) -the most followed Sports channel worldwide- and Sony Music India.
 
 Mr. Beast, Blackpink, Justin Bieber, Eminem, and Taylor Swift count as non-branded YouTube profiles.
+
+<FlatUiTable
+  data={{
+    url: 'data.csv'
+  }}
+/>
