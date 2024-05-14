@@ -21,8 +21,8 @@ Cyprus, Sweden, and Romania, all of them European countries, **are also English-
     url: '50_languages.csv'
   }}
   title="Languages spoken among the 50 YouTube channels with most subscribers"
-  xAxis="year"
-  yAxis="avg"
+  xAxis="lang"
+  yAxis="mill_subs"
 />
 
 Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic, Bhojpuri, and Portuguese have 2% each.
