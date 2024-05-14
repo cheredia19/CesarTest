@@ -17,12 +17,11 @@ The Korean language lies in third place with a distant 6%. A curious thing is th
 Cyprus, Sweden, and Romania, all of them European countries, **are also English-speaking channels**.
 
 ## Languages spoken among the 50 YouTube channels with most subscribers
-
 <PlotlyBarChart
   data={{
     url: '50_languages.csv'
   }}
-  title="English, Hindi and Korean languages are the preferred languages of the top-50 most subscribed youtubers"
+  title="English, Hindi and Korean languages are the preferred languages"
   xAxis="lang"
   yAxis="mill_subs"
 />
