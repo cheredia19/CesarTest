@@ -22,9 +22,11 @@ Cyprus, Sweden, and Romania, all of them European countries, **are also English-
   data={{
     url: '50_languages.csv'
   }}
+  title="English, Hindi and Korean languages are the preferred languages of the top-50 most subscribed youtubers"
   xAxis="lang"
   yAxis="mill_subs"
 />
+*Note: million subscribers*. Source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels)
 
 Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic, Bhojpuri, and Portuguese have 2% each.
 
