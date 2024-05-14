@@ -1,10 +1,12 @@
 # Some insights about the 50 YouTube channels with the most subscribers 
 
+*By César Heredia, data journalist*
+
 Maybe it’s not entirely a big surprise that T-Series, a music Indian channel, is the profile with the most subscribers on YouTube with 263 million people. T-Series is branded as the largest music record label with up to 35% of the Indian music market. 
 
 As the renowned channel says in its profile description, “T-Series is associated with the music industry from the past three decades, having an ample catalog of music comprising plenty of languages that covers the length & breadth of India.”
 
-The second largest-subscriber channel on YouTube is American entrepreneur and Internet personality MrBeast. with a community of more than 250 million followers. 
+The second largest-subscriber channel on YouTube is the American entrepreneur and Internet personality MrBeast. with a community of more than 250 million followers. 
 
 It is no coincidence that these profiles come from India and the United States. These two countries gather at least 60% of the 50 YouTube channels with the most subscribers through April 14, 2024.
 
@@ -16,7 +18,7 @@ The Korean language lies in third place with a distant 6%. A curious thing is th
 
 Cyprus, Sweden, and Romania, all of them European countries, **are also English-speaking channels**.
 
-## Languages spoken among the 50 YouTube channels with most subscribers
+### Languages spoken among the 50 YouTube channels with most subscribers
 <PlotlyBarChart
   data={{
     url: '50_languages.csv'
@@ -25,7 +27,7 @@ Cyprus, Sweden, and Romania, all of them European countries, **are also English-
   xAxis="lang"
   yAxis="mill_subs"
 />
-*Note: million subscribers*. Source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels)
+*Note: figures represent million subscribers*. Source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels)
 
 Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic, Bhojpuri, and Portuguese have 2% each.
 
