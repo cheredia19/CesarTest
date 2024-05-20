@@ -37,7 +37,7 @@ Russian-speaking Entertainment channels A4 and Get Movies have a media of 51,65 
 
 Among the main topics, **80% of the 50 most subscribed YouTube channels are labeled as Music (42%) or Entertainment (38%)**. Those are followed by Education (8%), Sports and Film (4% each), News and How-to (2% each).
 
-### Main topics0
+### Main topics
 <PlotlyBarChart
   data={{
     url: 'topic.csv'
