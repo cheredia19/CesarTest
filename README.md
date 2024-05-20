@@ -2,6 +2,39 @@
 
 *By César Heredia, data journalist*
 
+<Catalog
+  datasets={[
+    {
+      _id: '07026b22d49916754df1dc8ffb9ccd1c31878aae',
+      metadata: {
+        title: '50 channels'
+      },
+      url_path: 'data.csv'
+    },
+    {
+      _id: '42c86cf3c4fbbab11d91c2a7d6dcb8f750bc4e19',
+      metadata: {
+        title: 'Countries'
+      },
+      url_path: 'country.csv'
+    },
+    {
+      _id: '80001dd32a752421fdcc64e91fbd237dc31d6bb3',
+      metadata: {
+        title: 'Languages'
+      },
+      url_path: '50_languages.csv'
+    },
+    {
+      _id: '96649d05d8193f4333b10015af76c6562971bd8c',
+      metadata: {
+        title: 'Topics'
+      },
+      url_path: 'topic.csv'
+    }
+  ]}
+ />
+
 Maybe it’s not entirely a big surprise that T-Series, a music Indian channel, is the profile with the most subscribers on YouTube with 263 million people. T-Series is branded as the largest music record label with up to 35% of the Indian music market. 
 
 As the renowned channel says in its profile description, “T-Series is associated with the music industry from the past three decades, having an ample catalog of music comprising plenty of languages that covers the length & breadth of India.”
