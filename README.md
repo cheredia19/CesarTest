@@ -9,7 +9,7 @@
       metadata: {
         title: '50 channels'
       },
-      url_path: 'data.csv'
+      url_path: 'data'
     },
     {
       _id: '42c86cf3c4fbbab11d91c2a7d6dcb8f750bc4e19',
