@@ -37,7 +37,17 @@ Russian-speaking Entertainment channels A4 and Get Movies have a media of 51,65 
 
 Among the main topics, **80% of the 50 most subscribed YouTube channels are labeled as Music (42%) or Entertainment (38%)**. Those are followed by Education (8%), Sports and Film (4% each), News and How-to (2% each).
 
-64% of the 50 YouTube channels with the most subscribers, two-thirds (64%) are brands, like T-Series, World Wrestling Entertainment (WWE) -the most followed Sports channel worldwide- and Sony Music India.
+### Main topics
+<PlotlyBarChart
+  data={{
+    url: 'topic.csv'
+  }}
+  title="Entertainment channels are the preferred among the Big 50"
+  xAxis="Topic"
+  yAxis="Millions of subscribers"
+/>
+
+Two-thirds of the 50 YouTube channels with the most subscribers (64%) are brands, like T-Series, World Wrestling Entertainment (WWE) -the most followed Sports channel worldwide- and Sony Music India.
 
 Mr. Beast, Blackpink, Justin Bieber, Eminem, and Taylor Swift count as non-branded YouTube profiles. The full list is below:
 
