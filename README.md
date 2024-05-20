@@ -10,6 +10,16 @@ The second largest-subscriber channel on YouTube is the American entrepreneur an
 
 It is no coincidence that these profiles come from India and the United States. These two countries gather at least 60% of the 50 YouTube channels with the most subscribers through April 14, 2024.
 
+### Where do the channels come from?
+<PlotlyBarChart
+  data={{
+    url: 'country.csv'
+  }}
+  title="India and the United States sum 30 channels"
+  xAxis="Country"
+  yAxis="Qty"
+/>
+
 But here is the thing. Despite India having 36% of the 50 most subscribed YouTube channels, **the most spoken language within the Big 50 on YouTube is English**.
 
 24 of the 50 YouTube channels with the most subscribers target English speakers (exactly 42%). Those channels gather 1,84 billion subscribers, while Indian-speaking channels collect 1,51 billion subscribers.
